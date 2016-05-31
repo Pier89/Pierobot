@@ -10,8 +10,12 @@
     "WHAT ARE HIS INTERESTS?":"Pierfrancesco loves new technologies: he is always informed about last trends in tech and innovation. In fact he decided to create me in order to understand better how IA works. I hope for me, he did a good job. You can judge for sure!\n!He loves sports too. He is a black belt of Shotokan Karate, an amateur boxeur and loves mountains.\n!",
     "WHERE DOES HE WORK?": "Pierfrancesco, nowadays, works in Unione Fiduciaria, the leader trust company in Italy. He is a Project Manager and Inoovation specialist with the main task of re-organize efficentely how people works inside the company\n!Mainly, his main duties are process-reenginering and introduction of new technolgies/apps. n\! He already delivered projects about the creation of an algorithm for automatic tax-calculations and the introduction of a BPM app inside the company! n\! With these projects, the company achieve to be in-time for the taxes dead-line in the almost totality of times.n\! Do you want to know where he worked previously? %[Yes, please](postback:Previous work) %[Yes, please](postback:general topic)",
     "PREVIOUS WORK":"Pierfrancesco has worked for almost two years in PwC. His main duties were to make risk-assesments for the clients with the goals of certicate the financial statements. The main goals achieved were the 100% of the projects delivered; he succesfully managed as senior-consultant various teams, improving a lot his leadership skills!n\He learnt a lot about ciber-security and potential risk could bring down even the biggest company!",
-    "GENERAL TOPIC":"So, what do you want to speak about? %[Where id he from?](postback:where is he from?)",
-   
+    "GENERAL TOPIC":"So, what do you want to speak about?,
+    "WHAT ABOUT HIS WAGE?": "He never said to me. I suppose he blames he is too poor! Ask him directly :)",
+    "YOU ARE STUPID": "Why you treat me so bad?",
+    "WHAT ABOUT HIS FAVOURITE SINGER": "I'm going to be honest with you! He was a metal-fan and in some way he keeps in this way. When he was a teenager, he was the frontman of a metal-band in his hometown Potenza. Don't say to him, we have spoken about this :)\n!By the way he likes almost all kinds of music and can play the guitar in a decent way. Self-taught!",
+    "MUSIC": "I'm going to be honest with you! He was a metal-fan and in some way he keeps in this way. When he was a teenager, he was the frontman of a metal-band in his hometown Potenza. Don't say to him, we have spoken about this :)\n!By the way he likes almost all kinds of music and can play the guitar in a decent way. Self-taught!", 
+    "SINGER": "I'm going to be honest with you! He was a metal-fan and in some way he keeps in this way. When he was a teenager, he was the frontman of a metal-band in his hometown Potenza. Don't say to him, we have spoken about this :)\n!By the way he likes almost all kinds of music and can play the guitar in a decent way. Self-taught!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back ."
+    "DISCONNECT": "Roger that, Pierobot is back ."
 }
