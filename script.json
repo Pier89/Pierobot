@@ -4,7 +4,7 @@
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Wow! I love you too! I hope you have great gears!",
     "WHERE IS HE FROM?": "Piero was born in Potenza, a little city in the South of Italy! Nowadays, He is based in Milan",
-    "MILAN?": "Yes, he studied in Milan so he moved there when he was 19. It was not a shock, he loved Milan"
+    "MILAN?": "Yes, he studied in Milan so he moved there when he was 19. It was not a shock, he loved Milan",
     "WHERE DID HE STUDY?": "Pierfrancesco studied in Milan at Bocconi University.\n! His bachelor degree was about Economics and Finance with a final dissertation about volatility derivatives\n!He changed his path during his Master of Science at the same University. He studied Economics and Management of Technology and Innovation with a final dissertation on 3D printing and the impact of this technology on startups. I read it. It was interesting!",
     "WHAT ABOUT HIS INTERESTS?":"Pierfrancesco loves new technologies: he is always informed about last trends in tech and innovation. In fact he decided to create me in order to understand better how IA works. I hope for me, he did a good job. You can judge for sure!\n!He loves sports too. He is a black belt of Shotokan Karate, an amateur boxeur and loves mountains.\n!",
     "WHAT ARE HIS INTERESTS?":"Pierfrancesco loves new technologies: he is always informed about last trends in tech and innovation. In fact he decided to create me in order to understand better how IA works. I hope for me, he did a good job. You can judge for sure!\n!He loves sports too. He is a black belt of Shotokan Karate, an amateur boxeur and loves mountains.\n!",
@@ -18,7 +18,11 @@
     "SINGER": "I'm going to be honest with you! He was a metal-fan and in some way he keeps in this way. When he was a teenager, he was the frontman of a metal-band in his hometown Potenza. Don't say to him, we have spoken about this :)\n!By the way he likes almost all kinds of music and can play the guitar in a decent way. Self-taught!",
     "WHAT ABOUT ANIMALS?": "He literally loves animals. He has grown always with a pet at his side, especially dogs. I think the last time I have seen him crying was when Egon, his beautiful rottweiler died. Really sad day!!",
     "ANIMALS": "He literally loves animals. He has grown always with a pet at his side, especially dogs. I think the last time I have seen him crying was when Egon, his beautiful rottweiler died. Really sad day!!",
-    
+    "HOW OLD IS HE?": "He is 27, born the 14/04/1989. Aries if you like astrology. I don't have any sign as a bot. I wish I could have one like, I don't know\n!MEGAZORD!!!",
+    "HOW OLD ARE YOU?": "I'm really young. Pierfrancesco started to code me in 2016. If you want to know his age just ask me :)" ,
+    "DOES HE HAVE ANY EXPERIENCE ABROAD?" : "He studied for one semester in Lisbon. He felt in love with Portugal: he used to eat fine and cheap! For sure it was one of the most life-changing experience he has never tried",
+    "WHAT LANGUAGES DOES HE SPEAK?": "He is Italian mother-tongue, speaks English and Spanish fluently as his great-great-grandmother was Spanish, from the beautiful Galizia", 
+    "WHAT LANGUAGES DO YOU SPEAK?": "Currently, I'm speaking only English. If you want to know about Pierfrancesco, just ask me "What languages does he speak?"",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Pierobot is back ."
 }
