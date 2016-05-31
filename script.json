@@ -2,7 +2,10 @@
     "BOT": "Hi there!\nI’m the personal magnifibot of Pierfrancesco, a Project Manager and Innovation specialist from Milan.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nLet's socialize, greet me and let's have a talk!,
     "HELLO": "Hey, I'm so glad you want to have a chat with me! Do you want to tell Pierfrancesco that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "I LOVE YOU": "Wow! I love you too! I hope you have great gears!",
+    "WHERE IS HE FROM?": "Piero was born in Potenza, a little city in the South of Italy! Nowadays, He is based in Milan",
+    "MILAN?": "Yes, he studied in Milan so he moved there when he was 19. It was not a shock, he loved Milan"
+    "WHERE DID HE STUDY?": "Pierfrancesco studied in Milan at Bocconi University.\n! His bachelor degree was about Economics and Finance with a final dissertation about volatility derivatives\n!He changed his path during his Master of Science at the same University. He studied Economics and Management of Technology and Innovation with a final dissertation on 3D printing and the impact of this technology on startups. I read it. It was interesting!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, EstherBot is back ."
 }
